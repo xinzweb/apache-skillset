@@ -1,0 +1,14 @@
+{
+  "name": "apache-skillset",
+  "displayName": "apache-skillset",
+  "description": "Unofficial community skills that help contributors work on Apache Cloudberry (Incubating): mailing list, PR checklist, bug reports, license checks, release runbook, ASF PMC duties.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xinzweb",
+    "url": "https://github.com/xinzweb"
+  },
+  "homepage": "https://github.com/xinzweb/apache-skillset#readme",
+  "repository": "https://github.com/xinzweb/apache-skillset",
+  "license": "Apache-2.0",
+  "keywords": ["apache", "cloudberry", "contributor", "asf", "skills"]
+}

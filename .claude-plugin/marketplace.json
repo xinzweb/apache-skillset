@@ -1,0 +1,15 @@
+{
+  "name": "apache-skillset",
+  "owner": {
+    "name": "xinzweb",
+    "url": "https://github.com/xinzweb"
+  },
+  "description": "Unofficial community Claude Code skills for Apache Cloudberry contributors.",
+  "plugins": [
+    {
+      "name": "apache-skillset",
+      "source": "./",
+      "description": "Skills for contributing to Apache Cloudberry (Incubating): mailing list, PRs, bug reports, license checks, releases, ASF duties."
+    }
+  ]
+}
